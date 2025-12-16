@@ -1,4 +1,11 @@
-const { sum, specificSymbol } = require("./lesson-02");
+const lesson02 = require("./lesson-02");
 
-console.log(sum(10, 5));
-console.log(specificSymbol);
+console.log(lesson02.sum(10, 5));
+console.log(lesson02.specificSymbol);
+
+/*
+ * EXPECTED OUTPUT:
+ * -------------------
+ * 15
+ * `
+ */

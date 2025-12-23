@@ -28,7 +28,7 @@ console.log(pc);
  * -------------------
  * {
  *  memory: { free: 9.17, total: 15.30 },
- *  osInformation: { type: 'Windows_NT', version: '10.0.19045', platform: 'win32', version: 'Windows 10 Home' },
+ *  osInformation: { type: 'Windows_NT', release: '10.0.19045', platform: 'win32', version: 'Windows 10 Home' },
  *  userInformation: {...},
  * }
  *
